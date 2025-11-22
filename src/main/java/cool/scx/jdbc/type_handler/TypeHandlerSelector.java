@@ -4,7 +4,7 @@ import cool.scx.jdbc.type_handler.math.BigDecimalTypeHandler;
 import cool.scx.jdbc.type_handler.math.BigIntegerTypeHandler;
 import cool.scx.jdbc.type_handler.primitive.*;
 import cool.scx.jdbc.type_handler.time.*;
-import cool.scx.reflect.TypeInfo;
+import dev.scx.reflect.TypeInfo;
 
 import java.io.InputStream;
 import java.io.Reader;

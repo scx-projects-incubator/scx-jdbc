@@ -5,7 +5,7 @@ import cool.scx.jdbc.SchemaHelper;
 import cool.scx.jdbc.mapping.Column;
 import cool.scx.jdbc.mapping.Table;
 import cool.scx.jdbc.type_handler.TypeHandler;
-import cool.scx.reflect.TypeInfo;
+import dev.scx.reflect.TypeInfo;
 
 import javax.sql.DataSource;
 import java.sql.Driver;

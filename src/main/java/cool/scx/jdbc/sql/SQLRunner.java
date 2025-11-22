@@ -1,10 +1,10 @@
 package cool.scx.jdbc.sql;
 
 
-import cool.scx.function.Function0;
-import cool.scx.function.Function0Void;
-import cool.scx.function.Function1;
-import cool.scx.function.Function1Void;
+import dev.scx.function.Function0;
+import dev.scx.function.Function0Void;
+import dev.scx.function.Function1;
+import dev.scx.function.Function1Void;
 import cool.scx.jdbc.JDBCContext;
 import cool.scx.jdbc.dialect.Dialect;
 import cool.scx.jdbc.result_handler.ResultHandler;
