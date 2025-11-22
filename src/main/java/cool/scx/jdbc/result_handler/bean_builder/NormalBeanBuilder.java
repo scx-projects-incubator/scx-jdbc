@@ -1,8 +1,8 @@
 package cool.scx.jdbc.result_handler.bean_builder;
 
-import cool.scx.reflect.ClassInfo;
-import cool.scx.reflect.ConstructorInfo;
-import cool.scx.reflect.ScxReflect;
+import dev.scx.reflect.ClassInfo;
+import dev.scx.reflect.ConstructorInfo;
+import dev.scx.reflect.ScxReflect;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

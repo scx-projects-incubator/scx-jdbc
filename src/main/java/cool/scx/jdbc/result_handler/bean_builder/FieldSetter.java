@@ -1,16 +1,16 @@
 package cool.scx.jdbc.result_handler.bean_builder;
 
 import cool.scx.jdbc.type_handler.TypeHandler;
-import cool.scx.reflect.ClassInfo;
-import cool.scx.reflect.FieldInfo;
-import cool.scx.reflect.ScxReflect;
+import dev.scx.reflect.ClassInfo;
+import dev.scx.reflect.FieldInfo;
+import dev.scx.reflect.ScxReflect;
 
 import java.lang.reflect.Field;
 import java.util.function.Function;
 import java.util.stream.Stream;
 
-import static cool.scx.reflect.AccessModifier.PUBLIC;
-import static cool.scx.reflect.ClassKind.RECORD;
+import static dev.scx.reflect.AccessModifier.PUBLIC;
+import static dev.scx.reflect.ClassKind.RECORD;
 
 /// FieldSetter
 ///

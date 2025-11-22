@@ -4,8 +4,8 @@ import cool.scx.object.ScxObject;
 import cool.scx.object.mapping.NodeMappingException;
 import cool.scx.object.parser.NodeParseException;
 import cool.scx.object.serializer.NodeSerializeException;
-import cool.scx.reflect.ScxReflect;
-import cool.scx.reflect.TypeInfo;
+import dev.scx.reflect.ScxReflect;
+import dev.scx.reflect.TypeInfo;
 
 import java.lang.reflect.Type;
 import java.sql.PreparedStatement;

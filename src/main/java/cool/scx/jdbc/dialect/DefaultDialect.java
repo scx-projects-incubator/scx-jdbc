@@ -3,7 +3,7 @@ package cool.scx.jdbc.dialect;
 import cool.scx.jdbc.JDBCType;
 import cool.scx.jdbc.type_handler.TypeHandler;
 import cool.scx.jdbc.type_handler.TypeHandlerSelector;
-import cool.scx.reflect.TypeInfo;
+import dev.scx.reflect.TypeInfo;
 
 import javax.sql.DataSource;
 import java.sql.Driver;
